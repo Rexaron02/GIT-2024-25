@@ -1,0 +1,8 @@
+*.log
+*.tmp
+task/task1.bbl
+task/task1.blg
+task/task1.synctex.gz
+task/task1.toc
+task/task1.aux
+task/task1.log
